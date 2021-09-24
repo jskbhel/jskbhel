@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jskbhel
+- 👋 Hi, I’m Jaspal @jskbhel
 - 👀 I’m interested in IOT
 - 🌱 I’m currently learning ESP32, Arduino IDE, Firebase, Blynk
 - 💞️ I’m looking to collaborate on IOT
